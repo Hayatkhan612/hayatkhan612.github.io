@@ -14,3 +14,7 @@ Logic over Templates: Every project was manually architected to handle specific 
 Performance First: Using optimized CSS Grid and hardware-accelerated animations to ensure 60fps performance across all devices.
 
 Scalable Architecture: Modular JavaScript and React-based workflows designed for real-world growth.
+
+DocuMind-AI-Assistant Link 🔗:https://hayatkhan612.github.io/DocuMind-AI-Assistant/
+CollabCode-Realtime-Editor Link 🔗:https://hayatkhan612.github.io/CollabCode-Realtime-Editor/
+Nexus-SaaS-Dashboard Link 🔗:https://hayatkhan612.github.io/Nexus-SaaS-Dashboard/
