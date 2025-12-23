@@ -16,5 +16,7 @@ Performance First: Using optimized CSS Grid and hardware-accelerated animations 
 Scalable Architecture: Modular JavaScript and React-based workflows designed for real-world growth.
 
 DocuMind-AI-Assistant Link 🔗:https://hayatkhan612.github.io/DocuMind-AI-Assistant/
+
 CollabCode-Realtime-Editor Link 🔗:https://hayatkhan612.github.io/CollabCode-Realtime-Editor/
+
 Nexus-SaaS-Dashboard Link 🔗:https://hayatkhan612.github.io/Nexus-SaaS-Dashboard/
